@@ -21,11 +21,11 @@ This project is a web-based form for monitoring weekly placement compliance in t
 ## Installation
 Clone the repository:
 ```sh
-git clone https://github.com/your-username/placement-monitoring.git
+git clone [https://github.com/MdSharieff-081/Placement-Monitoring-Weekly-Compliance-Report]
 ```
 Navigate to the project folder:
 ```sh
-cd placement-monitoring
+cd Placement-Monitoring-Weekly-Compliance-Report
 ```
 Open `index.html` in your browser.
 
